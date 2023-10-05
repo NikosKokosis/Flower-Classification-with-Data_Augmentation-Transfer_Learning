@@ -24,6 +24,10 @@ This project consists of two main Jupyter Notebook files:
 
 This project showcases the power of Convolutional Neural Networks (CNNs) and Transfer Learning in achieving remarkable accuracy in flower classification. The model's ability to recognize diverse flower species under various conditions makes it a valuable tool for botanists and flower enthusiasts.
 
+## Download Dataset
+
+The dataset used for this project can be found [here](https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz).
+
 ## Dependencies
 
 To run this project, you'll need the following libraries installed:
@@ -39,7 +43,3 @@ You can install these libraries using `pip`:
 
 ```bash
 pip install pathlib opencv-python-headless Pillow tensorflow
-
-## Download Dataset
-
-The dataset used for this project can be found [here](https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz).
