@@ -30,4 +30,4 @@ This project was developed using Python and popular libraries for deep learning,
 
 ## Download Dataset
 
-The dataset used for this project can be found [here]([link_to_your_dataset](https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz)).
+The dataset used for this project can be found [here](https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz).
