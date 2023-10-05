@@ -26,7 +26,19 @@ This project showcases the power of Convolutional Neural Networks (CNNs) and Tra
 
 ## Dependencies
 
-This project was developed using Python and popular libraries for deep learning, including TensorFlow and Keras. Make sure you have the required libraries installed, as specified in the project notebooks.
+To run this project, you'll need the following libraries installed:
+
+- [pathlib](https://docs.python.org/3/library/pathlib.html): Library for image processing and display.
+- [cv2](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_image_display/py_image_display.html): Library for computer vision tasks.
+- [os](https://docs.python.org/3/library/os.html): Library for interacting with the operating system.
+- [PIL](https://pillow.readthedocs.io/en/stable/index.html): Library for image processing and display.
+- [collections.Counter](https://docs.python.org/3/library/collections.html#collections.Counter): Used for counting elements in the dataset.
+- [tensorflow](https://www.tensorflow.org/): An open-source machine learning framework.
+
+You can install these libraries using `pip`:
+
+```bash
+pip install pathlib opencv-python-headless Pillow tensorflow
 
 ## Download Dataset
 
